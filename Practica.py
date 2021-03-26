@@ -34,5 +34,6 @@ while (True):
 
     
     if opcion == 3:
+        print('\n Ha salido del sistema \n')
         break;
     
