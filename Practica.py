@@ -9,7 +9,7 @@ while (True):
     opcion = int(input("ingrese una opcion: "))
     
     if opcion == 1:
-        print("\nREGISTRAR COMESTICO\n")
+        print("\nREGISTRAR COSMETICO\n")
         descripcion = input('Descripcion del producto: ');
         cantidad = int(input('Cantidad de productos: '));
         precio = int(input('Precio del producto: '));        
